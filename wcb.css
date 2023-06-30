@@ -195,7 +195,7 @@ ad{
 /*MENU
 ------------------------------*/
 #menu{
-    background-image: url(../images/menu-bg.jpg);
+    background-image: url(https://github.com/i-mmk/wcb/blob/main/menu-bg.jpg?raw=true);
     min-height: 100vh;
 }
 .menu-content{
