@@ -98,7 +98,7 @@ imag{
 /* NEWS
 --------------------*/
 #news{
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(https://github.com/i-mmk/wcb/blob/main/news-bg.jpg?raw=true);
     height: 270px;
     margin-bottom: 40px;
 }
